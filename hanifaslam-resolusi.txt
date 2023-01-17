@@ -2,3 +2,4 @@ hanifaslam resolusi
 - konsisten untuk belajar coding minimal sehari sekali
 - belajar JS dasar
 - belajar DOM
+- belajar soal polines
